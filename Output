@@ -1,0 +1,43 @@
+======= RESTART: C:\Users\ashas\OneDrive\Documents\ASSIGNMENT 6\QUES 1.py ======
+Enter the number to check whether it is perfect or not:28
+True
+
+======= RESTART: C:\Users\ashas\OneDrive\Documents\ASSIGNMENT 6\QUES 2.py ======
+Enter the word and see if it is palindrome racecar
+This word is palindrome
+
+======= RESTART: C:\Users\ashas\OneDrive\Documents\ASSIGNMENT 6\QUES 3.py ======
+Enter number of rows: 5
+                     1 
+                  1      1 
+               1      2      1 
+            1      3      3      1 
+         1      4      6      4      1 
+
+======= RESTART: C:\Users\ashas\OneDrive\Documents\ASSIGNMENT 6\QUES 4.py ======
+Enter string:A quick brown fox jumps over the lazy dog
+The string is a pangram
+
+======= RESTART: C:\Users\ashas\OneDrive\Documents\ASSIGNMENT 6\QUES 5.py ======
+Enter a hyphene separated sequence of words to sort:
+======= RESTART: C:\Users\ashas\OneDrive\Documents\ASSIGNMENT 6\QUES 5.py ======
+Enter a hyphen separated sequence of words to sort:green-red-black-white    
+Sorted sequence:
+black-green-red-white    
+======= RESTART: C:\Users\ashas\OneDrive\Documents\ASSIGNMENT 6\QUES 7.py ======
+True
+False
+True
+False
+
+Check whether the said classes are subclasses of the built-in object class or not.
+True
+True
+
+======= RESTART: C:\Users\ashas\OneDrive\Documents\ASSIGNMENT 6\QUES 8.py ======
+[[-10, 2, 8], [-7, -3, 10]]
+
+======= RESTART: C:\Users\ashas\OneDrive\Documents\ASSIGNMENT 6\QUES 9.py ======
+True
+False
+False
