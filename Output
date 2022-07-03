@@ -19,11 +19,21 @@ Enter string:A quick brown fox jumps over the lazy dog
 The string is a pangram
 
 ======= RESTART: C:\Users\ashas\OneDrive\Documents\ASSIGNMENT 6\QUES 5.py ======
-Enter a hyphene separated sequence of words to sort:
-======= RESTART: C:\Users\ashas\OneDrive\Documents\ASSIGNMENT 6\QUES 5.py ======
 Enter a hyphen separated sequence of words to sort:green-red-black-white    
 Sorted sequence:
-black-green-red-white    
+black-green-red-white
+
+======= RESTART: C:\Users\ashas\OneDrive\Documents\ASSIGNMENT 6\QUES 6.py ======
+
+Student ID: 21102068
+Student Name: Rudransh
+
+Student ID: 21102068
+Student Name: Rudransh
+
+Student Name: Rudransh
+Student Class: B.Tech
+
 ======= RESTART: C:\Users\ashas\OneDrive\Documents\ASSIGNMENT 6\QUES 7.py ======
 True
 False
